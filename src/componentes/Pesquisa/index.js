@@ -16,7 +16,7 @@ const Titulo = styled.h2`
  color: #FFF;
  font-size: 36px;
  text-align: center;
- dthtrtrwidth: 100%;
+ width: 100%;
 
 `;
 
@@ -42,7 +42,7 @@ img{
 }
 
 &:hover{
-border 1px solid white;
+border: 4px solid white;
 }
 `;
 
